@@ -1,0 +1,5 @@
+{
+  "name": "Wireframe Mermaid AI",
+  "description": "A retro-styled tool to generate Mermaid diagrams from text and explain Mermaid code using Gemini AI.",
+  "requestFramePermissions": []
+}
